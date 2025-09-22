@@ -47,6 +47,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     color: #2E2F42;
+    text-transform: capitalize;
 }
 
 .third-header {
@@ -85,7 +86,11 @@ a {
     cursor: pointer;
 }
 
-.button:hover, .button:focus {
+.button:hover {
+    background-color: #404BBF;
+}
+
+.button:focus {
     background-color: #404BBF;
 }
 
@@ -95,11 +100,6 @@ a {
 
 .our-team {
     background-color: #F4F4FD;
-}
-
-.our-portfolio {
-    line-height: 1.11;
-    text-transform: capitalize;
 }
 
 header {
