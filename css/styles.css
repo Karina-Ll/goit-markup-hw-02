@@ -26,7 +26,8 @@ body {
     letter-spacing: 0.02em;
 }
 
-.nav-text:hover, .nav-text:focus {
+.nav-text:hover, 
+.nav-text:focus {
     color: #404BBF;
 }
 
@@ -43,6 +44,7 @@ body {
     font-size: 36px;
     font-weight: 500;
     line-height: 1.2;
+    text-align: center;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
@@ -51,6 +53,7 @@ body {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.11;
+    text-align: center;
     letter-spacing: 0.02em;
     color: #2E2F42;
 }
@@ -115,7 +118,7 @@ ul {
     color: #404bbf;
 }
 
-footer {
+.footer {
     background-color: #2E2F42;
     color: #F4F4FD;
 }
