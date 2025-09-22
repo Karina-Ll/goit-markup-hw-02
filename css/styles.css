@@ -31,7 +31,7 @@ body {
     color: #404BBF;
 }
 
-.h1-text {
+.first-header {
     font-size: 56px;
     font-weight: 700;
     line-height: 1.07;
@@ -40,7 +40,7 @@ body {
     color: #FFFFFF;
 }
 
-.h2-text {
+.second-header {
     font-size: 36px;
     font-weight: 500;
     line-height: 1.2;
@@ -49,7 +49,7 @@ body {
     color: #2E2F42;
 }
 
-.h3-text {
+.third-header {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.11;
